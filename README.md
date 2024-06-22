@@ -5,8 +5,6 @@ This project involves analyzing the Titanic dataset using Python, Pandas, NumPy,
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Explanation](#code-explanation)
-- [Visualization](#visualization)
 - [Conclusion](#conclusion)
 - [Acknowledgements](#acknowledgements)
 
